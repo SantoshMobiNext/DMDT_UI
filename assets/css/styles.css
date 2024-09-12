@@ -299,7 +299,7 @@
 .btn-submit {
   background-color: var(--map-icon-color);
   color: var(--button-color) !important;
-  padding: 9px 21px;
+  padding: 6px 15px !important;
 }
 
 .btn-submit:hover {
@@ -358,6 +358,11 @@ iframe {
 .stopBtn {
   width: 180px !important;
 }
+
+.hide {
+  display: none;
+}
+
 
 @media only screen and (max-width: 426px) {
   .allObject{
