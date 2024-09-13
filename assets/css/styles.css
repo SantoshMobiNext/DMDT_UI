@@ -13,6 +13,7 @@
     --button-color: #fff;
     --button-bg: #252685;
     --btn-outline-submit: #3e4095;
+    --btn-validate: #01a66f6b;
   }
   [data-theme-version="dark"] {
     --page-bg-color: #18181a;
@@ -28,6 +29,7 @@
     --button-color: #333333;
     --button-bg: #e8e8ea;
     --btn-outline-submit: #3e4095;
+    --btn-validate: #2effb996;
   }
 
 
