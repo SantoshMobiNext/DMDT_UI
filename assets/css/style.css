@@ -21451,9 +21451,9 @@ body > * {
   margin-left: auto !important;
   margin-right: unset !important;
   color: var(--text-dark); }
-  .btn-close:before {
+  /* .btn-close:before {
     content: '\f00d';
-    font-weight: 600; }
+    font-weight: 600; } */
   .btn-close:hover {
     color: var(--text-dark); }
 
